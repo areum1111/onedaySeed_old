@@ -1,10 +1,11 @@
 import React from "react";
 import './App.css';
+import Cart from "./components/Cart"
 
 function App() {
   return (
     <div className="App">
-      <h2>안녕하세요</h2>
+      <Cart />
     </div>
   );
 }

@@ -1,0 +1,40 @@
+.all {
+    margin: 30px;
+    display:inline-block;
+}
+
+img {
+    margin: 0;
+}
+
+.thumb {
+    height: 280px;
+    width: 300px;
+    float: left;
+    margin-right: 100px;
+}
+
+form {
+    align-items: center;
+    height: 280px;
+    width: 400px;
+    float: left;
+}
+
+.closeButton {
+    float: right;
+}
+
+.mb-3 {
+    margin: 10px;
+}
+
+.caret {
+    float: right;
+    margin-right: 10px;
+}
+
+.modify {
+    background-color: green;
+    border: none;   
+}
